@@ -1,0 +1,4 @@
+base:
+  'Windows*':
+    - match: glob
+    - '*'
